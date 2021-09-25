@@ -1,3 +1,4 @@
 <?php
-    echo "hello";
+echo "hello";
+echo "Register System form cli;
 ?>
